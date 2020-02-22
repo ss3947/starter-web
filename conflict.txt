@@ -1,1 +1,3 @@
  i am checking confict behaviur in git rebasing
+
+ adding somee changes
